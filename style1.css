@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.search {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.container {
+    position: absolute;
+    top: 40%
+}
+
+body{
+    background-image: url("https://images.nrc.nl/z2Nc56YJHy1eSeoCRFwZiGQYzus=/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2016/05/0705zatdonkeretrump.jpg");
+    background-size: 100%;
+}
