@@ -1,0 +1,95 @@
+.topnav {
+    background-color: rgb(0, 113, 179);
+    overflow: hidden;
+    }
+
+    .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    }
+
+    .topnav a:hover {
+    background-color: rgb(45, 23, 141);
+    color: rgb(191, 247, 255);
+    }
+
+    .topnav a.active {
+    background-color: #007052;
+    color: white;
+    }
+
+    .topnav .icon {
+    display: none;
+    }
+
+body {
+    background: url("https://i.pinimg.com/originals/72/8c/c2/728cc2a4eea4d7b0355adc43d40f8129.jpg");
+    background-repeat: repeat-y;
+    background-size: 100%;
+}
+
+.flex-container {
+    display: flex;
+    padding: 80px 80px;
+    flex-flow: column wrap; 
+}
+
+.flex-container2 {
+  padding: 80px 80px;
+  display: flex;
+  font-size: 0;
+  flex-wrap: wrap;
+  margin: -10px 0 0 -10px;
+}
+
+.Textbox1 {
+    border: 8px solid cornflowerblue;
+    background: url("https://st4.depositphotos.com/6766758/22656/v/600/depositphotos_226567064-stock-video-top-view-calm-turquoise-sea.jpg");
+    background-size: 100%;
+    color: white;
+    text-shadow: 2px 2px black;
+    margin: 5px;
+    height: 300px;
+    width: 1300px;
+}
+
+.Bootbox1 img {
+    float: left;
+    max-width: 100%;
+    max-height: 70%;
+    box-shadow: 2px 2px black;
+}
+
+.Textbox1 img {
+    float: right;
+    max-width: 100%;
+    max-height: 300px;
+    margin: auto;
+}
+
+.Textbox2 {
+    border: 8px solid cornflowerblue;
+    background: url("https://st4.depositphotos.com/6766758/22656/v/600/depositphotos_226567064-stock-video-top-view-calm-turquoise-sea.jpg");
+    background-size: 100%;
+    color: white;
+    margin: 5px;
+    height: 300px;
+    width: 1300px;
+    text-shadow: 2px 2px black;
+}
+
+.Bootbox1 {
+  border: 8px solid cornflowerblue;
+  background: url("https://st4.depositphotos.com/6766758/22656/v/600/depositphotos_226567064-stock-video-top-view-calm-turquoise-sea.jpg");
+  background-size: 300%;
+  color: white;
+  text-shadow: 2px 2px black;
+  margin: 5px;
+  height: 370px;
+  width: 300px;
+}
