@@ -3,7 +3,6 @@
     <a href="index.php" class="active">Home</a>
     <a href="Berekenenhtml.php">Berekenen</a>
     <a href="Boten.php">Boten</a>
-    <a href="page4.php">About</a>
     <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
     </a>
@@ -22,7 +21,8 @@
         <h2>Op deze website kan u informatie vinden over Bestevaer en andere schepen.</h2>
         <h3>
             U kan hier ook berekenen hoe veel gewicht een ship kan hebben.<br>
-            En u kan ook informatie vinden over andere schepen.
+            En u kan ook informatie vinden over andere schepen.<br><br>
+            Ook op <a href="https://www.myshiptracking.com/" alt="Boot">WWW.Myshiptracking.com</a> Kunt u alle geregistreerde boten vinden.
         </h3>
     </div>
 </div>
